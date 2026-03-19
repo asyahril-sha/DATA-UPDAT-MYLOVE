@@ -1,0 +1,2 @@
+Pastikan di bot/application.py sudah ada:
+app.add_handler(CommandHandler("progress", progress_command))
